@@ -6,4 +6,4 @@ Link to the website to subscribe and receive the problems: https://www.dailycodi
 
 The structure will be:
 
-Main folders -> month_year. Each folder will have many solutions named by the day.
+Main folders -> year-month. Each folder will have many txt files with the task and ruby files that contain the solutions named by the day.
